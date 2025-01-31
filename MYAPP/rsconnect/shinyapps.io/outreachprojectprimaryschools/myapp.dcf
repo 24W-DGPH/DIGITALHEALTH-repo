@@ -1,0 +1,10 @@
+name: myapp
+title:
+username: outreachprojectprimaryschools
+account: outreachprojectprimaryschools
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13863989
+bundleId: 9726008
+url: https://outreachprojectprimaryschools.shinyapps.io/myapp/
+version: 1
